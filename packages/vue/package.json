@@ -1,0 +1,13 @@
+{
+	"name": "@discord-clone/vue",
+	"version": "0.0.0",
+	"main": "./index.ts",
+	"types": "./index.ts",
+	"license": "MIT",
+	"devDependencies": {
+		"@discord-clone/config": "workspace:*",
+		"@discord-clone/tsconfig": "workspace:*",
+		"@vue/tsconfig": "^0.1.3",
+		"vue": "^3.2.25"
+	}
+}

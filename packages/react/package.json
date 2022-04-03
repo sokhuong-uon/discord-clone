@@ -1,0 +1,16 @@
+{
+	"name": "@discord-clone/react",
+	"version": "0.0.0",
+	"main": "./index.ts",
+	"types": "./index.ts",
+	"license": "MIT",
+	"devDependencies": {
+		"@discord-clone/config": "workspace:*",
+		"@discord-clone/tsconfig": "workspace:*"
+	},
+	"dependencies": {
+		"@types/react": "^17.0.43",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"extends": "@discord-clone/tsconfig/src/react-library.json",
+	"compilerOptions": {
+		"noEmit": true
+	},
+	"include": ["src", "vite.config.ts"]
+}

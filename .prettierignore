@@ -1,0 +1,8 @@
+.next/
+.turbo/
+.vscode/
+dist/
+node_modules/
+out/
+README.md
+package.json

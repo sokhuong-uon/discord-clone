@@ -6,6 +6,8 @@
 		"lib": ["ES2015", "DOM"],
 		"module": "ESNext",
 		"target": "ES6",
-		"useDefineForClassFields": true
+		"incremental": false,
+		"composite": false,
+		"useDefineForClassFields": false
 	}
 }

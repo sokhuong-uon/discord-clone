@@ -2,7 +2,7 @@
 	{
 		"id": "abs",
 		"name": "USK",
-		"avatar": "http://localhost:3001/avatar/111-100x100.webp"
+		"avatar": "/avatar/111-100x100.webp"
 	},
 	{
 		"id": "mhn",

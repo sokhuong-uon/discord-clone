@@ -1,7 +1,7 @@
 {
   "name": "discord-clone",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "description": "discord UI clone with vue and react using turborepo",
   "workspaces": [
     "apps/*",

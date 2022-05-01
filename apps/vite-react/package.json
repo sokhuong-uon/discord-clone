@@ -1,6 +1,6 @@
 {
   "name": "vite-react",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --port 3001",

@@ -7,7 +7,7 @@ enum STATUS {
 
 const AvatarButton = ({ avatar }: { avatar?: string }) => {
 	return (
-		<button className="flex items-center justify-center w-full h-full">
+		<button className="flex items-center justify-center w-full h-full select-none">
 			{avatar && <img src={avatar} alt="avatar" />}
 			{!avatar && <div className="w-full h-full bg-blue-700"></div>}
 		</button>
